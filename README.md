@@ -48,7 +48,6 @@ The model seems to be very good
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by live session of upGrad on Linear Regression by Upgrad tutors and live session of UpGrad on PreAssignment session by Akashdeep Makkar
 UpGrad tutorials on Linear Regression on the learning platform
 
